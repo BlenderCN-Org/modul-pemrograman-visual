@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kumpulan Tutorial](README.md)
+* [Beranda](README.md)
 * [Untitled](untitled.md)
 
 ## Tugas
