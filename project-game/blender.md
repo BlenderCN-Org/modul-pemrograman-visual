@@ -1,6 +1,6 @@
 # Blender
 
-Note : Versi Blender terbaru \(2.8\) sudah tidak lagi mendukung Blender Game Engine. Jika ingin membuat game menggunakan blender, disarankan menggunakan versi lama yaitu [Blender 2.79](https://www.blender.org/download/previous-versions/).
+Note : Versi Blender terbaru \(2.8\) sudah tidak lagi mendukung Blender Game Engine. Jika ingin membuat game menggunakan blender, disarankan menggunakan versi [Blender 2.79](https://www.blender.org/download/previous-versions/).
 
 * \*\*\*\*[**DodyAnimation - Membuat Game Sederhana Dengan Blender**](http://www.dodyanimation.com/membuat-game-sederhana-dengan-blender/)\*\*\*\*
 * \*\*\*\*[**Tutorial FPS sederhana Blender game engine**](https://youtu.be/t17MuQ-6rjU)\*\*\*\*
