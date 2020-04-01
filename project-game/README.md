@@ -7,12 +7,12 @@ description: >-
 
 # Kumpulan Tutorial
 
-Modul ini menyediakan kumpulan tutorial game untuk daftar software dibawah ini :
+Modul ini menyediakan kumpulan tutorial game menggunakan software berikut:
 
 * [Unity](unity.md)
-* Blender
-* Godot
-* Buildbox
-* Unreal Engine
-* Lainnya
+* [Blender](blender.md)
+* [Godot](godot.md)
+* [Buildbox](buildbox.md)
+* [Unreal Engine](unreal-engine.md)
+* [Lainnya](lainnya.md)
 
