@@ -8,6 +8,8 @@
 * \*\*\*\*[**Portal Clone Tutorial in Unity - CS50's Intro to Game Development**](https://youtu.be/359zcpybgIM)\*\*\*\*
 * \*\*\*\*[**Unity Game Dev Full Tutorial - 3D Snake Game**](https://youtu.be/8ztq9fQT6Kc)\*\*\*\*
 * \*\*\*\*[**How to make a 3d fight game in Unity - full tutorial**](https://youtu.be/1wn5Ur1_vKg)\*\*\*\*
+* \*\*\*\*[**Unity FPS Survival Game Tutorial - First Person Shooter Game Dev**](https://youtu.be/Sqb-Ue7wpsI)\*\*\*\*
+* \*\*\*\*[**Membuat Game Labirin Menggunakan Unity3D**](https://youtu.be/RW48_0vldwA)\*\*\*\*
 
 
 
