@@ -2,7 +2,7 @@
 
 _Game design document adalah sebuah bentuk dokumentasi dari sebuah produk game dalam proses pengembangannya, yang biasanya berisi tentang design game yang berfokus kepada elemen-elemen seperti genre permainan, gameplay, game mekanik/konfensional, alur cerita, karakter, tantangan, faktor kesenangan, aspek teknis, dan lain lain._
 
-## Tugas
+#### Tugas Untuk Tiap Kelompok : 
 
 silahkan download template game design document yang sudah disediakan dibawah, kemudian isi tiap bagian yang sudah disediakan. 
 
