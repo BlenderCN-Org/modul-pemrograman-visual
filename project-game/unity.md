@@ -15,6 +15,8 @@
 * \*\*\*\*[**Unity Game Dev Full Tutorial - 3D Snake Game**](https://youtu.be/8ztq9fQT6Kc)\*\*\*\*
 * \*\*\*\*[**How to make a 3d fight game in Unity - full tutorial**](https://youtu.be/1wn5Ur1_vKg)\*\*\*\*
 * \*\*\*\*[**Unity FPS Survival Game Tutorial - First Person Shooter Game Dev**](https://youtu.be/Sqb-Ue7wpsI)\*\*\*\*
+* \*\*\*\*[**How to make a Video Game**](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)\*\*\*\*
+* \*\*\*\*[**How to make an RPG in Unity**](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)\*\*\*\*
 
 
 
